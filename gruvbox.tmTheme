@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
     <key>comment</key>
-    <string>Created by Martin Radimec. Based on gruvbox</string>
+    <string>Based on original gruvbox color scheme.</string>
     <key>author</key>
-    <string>Martin Radimec</string>
+    <string>peaceant</string>
     <key>name</key>
     <string>gruvbox</string>
     <key>settings</key>
@@ -461,10 +461,8 @@
         <string>meta.diff, meta.diff.header</string>
         <key>settings</key>
         <dict>
-            <key>background</key>
-            <string>#83a598</string>
             <key>foreground</key>
-            <string>#fdf4c1</string>
+            <string>#83a598</string>
         </dict>
     </dict>
     <dict>
@@ -474,10 +472,8 @@
         <string>markup.deleted</string>
         <key>settings</key>
         <dict>
-            <key>background</key>
-            <string>#fa5c4b</string>
             <key>foreground</key>
-            <string>#fdf4c1</string>
+            <string>#fa5c4b</string>
         </dict>
     </dict>
     <dict>
@@ -487,10 +483,8 @@
         <string>markup.changed</string>
         <key>settings</key>
         <dict>
-            <key>background</key>
-            <string>#fabd2f</string>
             <key>foreground</key>
-            <string>#fdf4c1</string>
+            <string>#fabd2f</string>
         </dict>
     </dict>
     <dict>
@@ -500,10 +494,8 @@
         <string>markup.inserted</string>
         <key>settings</key>
         <dict>
-            <key>background</key>
-            <string>#8ec07c</string>
             <key>foreground</key>
-            <string>#fdf4c1</string>
+            <string>#8ec07c</string>
         </dict>
     </dict>
 
