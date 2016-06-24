@@ -601,6 +601,17 @@
             <string>#fabd2f</string>
         </dict>
     </dict>
+    <dict>
+        <key>name</key>
+        <string>JS: unquoted labe</string>
+        <key>scope</key>
+        <string>string.unquoted.label.js</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#fdf4c1</string>
+        </dict>
+    </dict>
     <!-- SQL -->
     <dict>
         <key>name</key>
